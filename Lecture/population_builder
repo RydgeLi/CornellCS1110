@@ -1,0 +1,6 @@
+class Person :
+    '''This class builds people
+    object attributes: my_name, my_gender, my_age, my_friends'''
+    
+    def __init__(self, name, gender, age) :
+        self.my_name = name
